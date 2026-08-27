@@ -5,9 +5,8 @@ tags:
     - echoes
     - GWTC-3
     - LIGO
-authors:
+    authors:
     - name: Eduardo Custodio Correa
-    affiliation: 1
 affiliations:
     - name: Independent Researcher, Brazil
     index: 1
