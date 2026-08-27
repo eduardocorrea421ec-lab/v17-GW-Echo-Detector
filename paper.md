@@ -1,5 +1,5 @@
 ---
-title: ´V17 GW Echo Detector´
+title: 'V17 GW Echo Detector'
 tags:
 - gravitational-waves
 - echoes
