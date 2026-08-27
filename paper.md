@@ -6,7 +6,7 @@ tags:
     - GWTC-3
     - LIGO
 authors:
-    - name: Eduardo Custodio Correa
+    - name:Eduardo Custodio Correa
     affiliation: 1
 affiliations:
     - name: Independent Researcher, Brazil
