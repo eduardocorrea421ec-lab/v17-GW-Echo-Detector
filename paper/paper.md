@@ -1,37 +1,28 @@
-@article{Abedi2017,
-  doi = {10.1103/PhysRevD.96.082004},
-  author = {Abedi, Jahed and Dykaar, Hannah and Afshordi, Niayesh},
-  title = {Echoes from the Abyss: Tentative evidence for Planck-scale structure at black hole horizons},
-  journal = {Physical Review D},
-  year = {2017}
-}
+---
+title: 'v17 GW Echo Detector: A Python Pipeline for Gravitational Wave Echo Detection'
+tags:
+    - Python
+    - gravitational waves
+    - LIGO
+    - echo detection
+    - black holes
+    - astrophysics
+    - GWOSC
+authors:
+    - name: Eduardo Custodio Correa
+    orcid: 0009-0004-5493-5386
+    affiliation: 1
+affiliations:
+    - name: Independent Researcher, EC-Lab, Sao Caetano do Sul, Brazil
+    index: 1
+date: 12 November 2026
+bibliography: paper.bib
+---
 
-@article{Conklin2018,
-  doi = {10.1103/PhysRevD.98.044004},
-  author = {Conklin, R. S. and others},
-  title = {Gravitational wave echoes through new windows},
-  year = {2018}
-}
+# Summary
 
-@article{Westerweck2018,
-  doi = {10.1103/PhysRevD.97.124037},
-  author = {Westerweck, Julian and others},
-  title = {Low significance of evidence for black hole echoes},
-  year = {2018}
-}
+The v17 GW Echo Detector is an open-source Python pipeline designed to search for gravitational wave echoes following binary black hole mergers. Echoes are faint, repeating signals predicted by exotic compact object (ECO) models, wormholes, and quantum gravity corrections to classical black hole horizons, where the horizon is replaced by a reflective membrane at Planck scale. This package provides a complete, reproducible workflow from LIGO/Virgo/KAGRA strain data ingestion via the Gravitational Wave Open Science Center (GWOSC) to matched-filtering and statistical significance estimation of echo signals.
 
-@article{GWTC2,
-  doi = {10.1103/PhysRevX.11.021053},
-  author = {{LIGO Scientific Collaboration and Virgo Collaboration}},
-  title = {GWTC-2: Compact Binary Coalescences Observed by LIGO and Virgo During the First Half of the Third Observing Run},
-  journal = {Physical Review X},
-  year = {2021}
-}
+The software implements template-based echo search using combs of repeating damped sinusoids with parameters for echo time delay, relative amplitude decay, and phase inversion. It allows users to systematically test GWTC-2 and GWTC-3 events for post-merger echoes, generating SNR time series and background distributions essential for astrophysical interpretation.
 
-@software{Correa2026v17,
-  doi = {10.5281/zenodo.20510584},
-  author = {Correa, Eduardo},
-  title = {v17-GW-Detector-de-eco},
-  year = {2026},
-  publisher = {Zenodo}
-}
+# Statement of Need
