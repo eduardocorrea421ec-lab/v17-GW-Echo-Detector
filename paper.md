@@ -9,11 +9,11 @@ tags:
     - astrophysics
     - GWOSC
 authors:
-    - name: Eduardo Custódio Corrêa
+    - name: Eduardo Custodio Correa
     orcid: 0009-0000-0000-0000
     affiliation: 1
 affiliations:
-    - name: Independent Researcher, EC-Lab, São Caetano do Sul, Brazil
+        - name: Independent Researcher, EC-Lab, Sao Caetano do Sul, Brazil
     index: 1
 date: 12 November 2026
 bibliography: paper.bib
