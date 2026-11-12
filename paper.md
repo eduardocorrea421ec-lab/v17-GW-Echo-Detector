@@ -8,8 +8,8 @@ tags:
  - black holes
  - astrophysics
  - GWOSC
-authors:
-    - name: Eduardo Custodio Correa
+ - authors:
+   - name: Eduardo Custodio Correa
     orcid: 0009-0004-5493-5386
     affiliation: 1
 affiliations:
