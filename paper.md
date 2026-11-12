@@ -11,7 +11,7 @@ tags:
 authors:
    - name: Eduardo Custodio Correa
      orcid: 0009-0004-5493-5386
-     affiliation: 1
+     affiliation:1
 affiliations:
     - name: Independent Researcher, EC-Lab, Sao Caetano do Sul, Brazil
     index: 1
