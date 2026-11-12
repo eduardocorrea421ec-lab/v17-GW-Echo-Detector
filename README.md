@@ -1,7 +1,6 @@
-
 # V17 GW Echo Detector
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20510584.svg)](https://doi.org/10.5281/zenodo.20510584)
 
 **Null search for gravitational-wave echoes in 128 LIGO-Virgo-KAGRA events using H1+L1 coincidence**
 
@@ -17,7 +16,7 @@ This is the largest coincidence-based null search for echoes to date.
 Coincidence detector using H1+L1 Q-transforms:
 
 1. **Time window:** GPS ± 3s around merger
-2. **Q-transform:** 30-400 Hz, Q=4-32
+2. **Q-transform:** 30-400 Hz, Q=32
 3. **Coincidence requirement:** H1 AND L1 must both trigger
 4. **Reverse chirp filter:** -3000 < df/dt < -70 Hz/s
 5. **SNR threshold:** > 16
@@ -37,3 +36,4 @@ Event list: GWTC-1, GWTC-2, GWTC-2.1, GWTC-3.
 ## Citation
 If you use this code, please cite:
 
+Correa, E. (2026). v17-GW-Detector-de-eco (v17). Zenodo. https://doi.org/10.5281/zenodo.20510584
