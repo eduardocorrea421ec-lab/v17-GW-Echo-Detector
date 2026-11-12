@@ -1,13 +1,13 @@
 ---
 title: 'v17 GW Echo Detector: A Python Pipeline for Gravitational Wave Echo Detection'
 tags:
-    - Python
-    - gravitational waves
-    - LIGO
-    - echo detection
-    - black holes
-    - astrophysics
-    - GWOSC
+ - Python
+ -  - gravitational waves
+ - LIGO
+ - echo detection
+ - black holes
+ - astrophysics
+ - GWOSC
 authors:
     - name: Eduardo Custodio Correa
     orcid: 0009-0004-5493-5386
